@@ -1,0 +1,1001 @@
+product,product_category,warehouse_dist_km,product_weight_kg,shipment_mode,warehouse_processing_time_days,demand_forecast_unit,shipping_cost,delivery_time_days
+Laptop,Electronics,1448.36,3.1,Air,2,4516,351.67,4
+Laptop,Electronics,1130.87,2.57,Air,1,2395,277.57,3
+Keyboard,Accessories,1523.84,1.77,Road,5,5436,154.78,9
+Headphones,Accessories,1961.51,1.85,Rail,1,3307,164.32,8
+Refrigerator,Home Appliances,1082.92,22.45,Air,3,409,1058.46,5
+Monitor,Electronics,1082.93,0.84,Rail,5,2583,93.35,9
+Monitor,Electronics,1989.61,2.38,Rail,4,1822,178.21,11
+Drone,Gadgets,1583.72,4.2,Road,3,2864,202.44,8
+Keyboard,Accessories,965.26,0.33,Air,3,2653,196.35,5
+Keyboard,Accessories,1471.28,1.26,Road,3,3332,147.29,7
+SSD,Storage,968.29,0.47,Air,1,2995,199.53,3
+Mouse,Accessories,967.14,0.66,Air,5,3799,200.03,7
+Hard Drive,Storage,1320.98,0.5,Air,3,2143,270.45,5
+Hard Drive,Storage,243.36,0.47,Rail,3,1370,21.82,4
+Refrigerator,Home Appliances,337.54,54.0,Rail,2,742,837.0,3
+Mouse,Accessories,918.86,2.29,Road,5,5509,99.2,8
+Drone,Gadgets,693.58,2.0,Rail,2,2587,75.49,5
+Microwave,Home Appliances,1357.12,47.3,Sea,2,1485,654.46,10
+Headphones,Accessories,745.99,1.87,Air,5,5834,167.9,6
+Drone,Gadgets,493.85,4.86,Rail,1,969,88.11,3
+Drone,Gadgets,1932.82,3.91,Air,3,2280,484.31,6
+Headphones,Accessories,1087.11,0.21,Road,3,6100,105.37,6
+Keyboard,Accessories,1233.76,2.64,Air,5,6988,273.15,7
+Mouse,Accessories,487.63,1.25,Air,5,2004,110.03,6
+Drone,Gadgets,927.81,2.6,Air,3,1759,250.56,5
+Keyboard,Accessories,1255.46,0.87,Road,1,2701,124.7,5
+Microwave,Home Appliances,624.5,58.86,Rail,2,462,932.86,4
+TV,Home Appliances,1387.85,16.59,Road,5,1066,431.85,9
+Mouse,Accessories,899.68,2.2,Air,3,5588,201.94,5
+Drone,Gadgets,1054.15,0.87,Air,3,586,232.58,5
+Smart Watch,Gadgets,899.15,1.38,Air,1,741,214.33,3
+Keyboard,Accessories,2126.14,2.74,Rail,1,6211,181.05,9
+Speaker,Accessories,1193.25,2.07,Air,2,6677,259.35,4
+Drone,Gadgets,671.14,1.44,Road,4,1279,81.71,6
+Laptop,Electronics,1611.27,2.81,Air,4,3412,378.45,7
+Laptop,Electronics,589.58,0.71,Road,1,2518,63.42,3
+Mouse,Accessories,1304.43,1.7,Air,2,4281,277.89,4
+Microwave,Home Appliances,220.16,53.47,Road,5,400,983.6,6
+Laptop,Electronics,535.91,3.89,Rail,2,2181,73.99,4
+Refrigerator,Home Appliances,1298.43,33.03,Sea,1,537,479.46,8
+Microwave,Home Appliances,1569.23,59.24,Road,4,784,1216.97,8
+TV,Home Appliances,1285.68,57.78,Sea,5,1196,775.64,12
+Mouse,Accessories,1142.18,1.03,Rail,5,6441,95.49,9
+Tablet,Electronics,1049.45,0.7,Road,5,4992,107.47,8
+Camera,Gadgets,460.74,0.57,Road,2,780,51.07,3
+Camera,Gadgets,840.08,3.47,Air,1,2833,254.77,2
+Keyboard,Accessories,969.68,1.93,Road,5,6630,102.35,8
+Drone,Gadgets,1728.56,4.69,Air,3,1477,462.96,6
+SSD,Storage,1371.81,0.37,Road,4,1795,133.91,8
+Laptop,Electronics,318.48,2.1,Rail,1,1800,42.28,2
+Camera,Gadgets,1362.04,2.68,Air,3,781,339.41,5
+Speaker,Accessories,1007.46,1.0,Road,5,4478,101.52,8
+Smart Watch,Gadgets,861.54,2.79,Road,5,1726,116.19,7
+Mobile Phone,Electronics,1505.84,1.43,Rail,5,2136,131.91,11
+SSD,Storage,1715.5,0.99,Road,2,1581,170.63,7
+Drone,Gadgets,1665.64,1.48,Rail,1,878,148.05,7
+Refrigerator,Home Appliances,780.39,10.29,Air,2,736,541.95,3
+Headphones,Accessories,1045.39,1.74,Road,1,2916,108.71,4
+Mobile Phone,Electronics,1365.63,2.41,Rail,5,3763,128.53,10
+Headphones,Accessories,1687.77,0.56,Air,1,4931,343.15,4
+Mouse,Accessories,960.41,2.07,Air,5,5329,212.78,7
+Smart Watch,Gadgets,1107.17,1.03,Rail,2,1225,98.87,6
+Microwave,Home Appliances,646.83,17.33,Rail,4,708,311.7,6
+Hard Drive,Storage,601.9,1.22,Air,1,2427,135.63,2
+Mouse,Accessories,1606.26,2.49,Road,3,3864,166.15,8
+Keyboard,Accessories,1878.12,2.05,Air,3,2568,396.12,6
+SSD,Storage,1163.99,1.03,Air,5,1856,245.67,7
+Laptop,Electronics,1701.77,3.57,Air,5,2587,411.75,8
+Laptop,Electronics,1380.82,2.59,Air,3,3287,327.96,5
+Smart Watch,Gadgets,877.44,0.84,Rail,2,1543,78.6,5
+Monitor,Electronics,1380.7,0.51,Rail,5,4313,114.54,10
+Speaker,Accessories,1969.02,1.41,Rail,3,4571,163.16,10
+Tablet,Electronics,1182.09,2.27,Road,3,3148,135.27,6
+Hard Drive,Storage,1982.32,0.45,Road,4,1212,193.0,10
+Smart Watch,Gadgets,50.0,1.71,Road,1,1744,25.32,1
+Hard Drive,Storage,1610.95,0.76,Road,3,2404,159.21,8
+Refrigerator,Home Appliances,1243.52,43.13,Rail,2,373,746.43,7
+SSD,Storage,1050.5,0.32,Rail,2,1771,85.64,6
+Mouse,Accessories,1245.88,0.61,Air,4,2596,255.28,6
+Refrigerator,Home Appliances,206.22,54.08,Rail,4,1212,827.7,5
+Microwave,Home Appliances,1090.16,15.67,Road,1,1070,386.72,4
+Mouse,Accessories,1378.56,2.45,Road,4,2411,144.1,8
+Camera,Gadgets,1938.95,4.61,Air,2,2403,503.04,5
+Smart Watch,Gadgets,940.86,3.1,Rail,4,2567,106.27,7
+TV,Home Appliances,795.75,31.19,Road,4,1121,637.81,6
+Hard Drive,Storage,949.12,1.29,Air,5,2484,205.95,7
+Speaker,Accessories,1657.7,1.43,Road,2,4225,166.0,7
+SSD,Storage,1364.38,1.36,Air,2,1447,289.88,4
+TV,Home Appliances,935.12,15.95,Air,4,1034,785.15,6
+SSD,Storage,1456.63,0.74,Air,4,2095,300.58,6
+Smart Watch,Gadgets,1248.54,0.39,Rail,5,2058,103.78,10
+Microwave,Home Appliances,1684.32,57.02,Road,4,1058,1188.05,9
+Smart Watch,Gadgets,848.97,3.75,Road,2,2499,126.5,4
+Speaker,Accessories,1036.17,1.42,Air,3,5312,221.43,5
+Headphones,Accessories,1003.95,2.77,Rail,5,2220,91.4,9
+TV,Home Appliances,468.24,37.35,Road,4,477,717.25,5
+Microwave,Home Appliances,1348.06,10.61,Air,2,1131,667.49,4
+SSD,Storage,1330.53,1.19,Air,4,1533,280.98,6
+Monitor,Electronics,1202.56,0.57,Road,3,2418,120.92,6
+Laptop,Electronics,1082.71,3.14,Rail,2,4937,111.74,6
+Mobile Phone,Electronics,492.31,1.33,Road,1,3810,60.03,2
+Headphones,Accessories,989.68,2.16,Road,2,6963,105.38,5
+Smart Watch,Gadgets,1028.64,3.68,Road,2,1774,142.91,5
+Laptop,Electronics,798.86,3.75,Road,4,3124,112.69,6
+Keyboard,Accessories,1119.36,1.86,Rail,2,2834,96.99,6
+Hard Drive,Storage,1402.03,1.24,Road,1,1922,142.03,5
+Drone,Gadgets,2143.09,3.41,Air,3,551,513.87,7
+Refrigerator,Home Appliances,1287.29,13.49,Rail,4,513,305.33,9
+Microwave,Home Appliances,1328.78,46.16,Sea,3,1461,638.96,11
+Drone,Gadgets,1162.78,2.48,Rail,5,1599,117.82,9
+Hard Drive,Storage,240.61,1.28,Air,4,1498,64.12,4
+TV,Home Appliances,1186.74,39.74,Road,1,1212,829.25,4
+Hard Drive,Storage,1230.12,0.83,Air,3,1894,256.4,5
+SSD,Storage,2431.62,0.92,Road,2,850,238.96,9
+Headphones,Accessories,1103.82,1.57,Road,4,6020,113.5,7
+Microwave,Home Appliances,1350.77,12.84,Air,2,827,751.65,4
+Drone,Gadgets,1182.64,2.52,Road,4,2754,143.77,7
+SSD,Storage,615.66,1.11,Air,3,1444,137.01,4
+Mobile Phone,Electronics,1771.41,1.6,Road,2,2284,185.42,7
+Headphones,Accessories,1575.97,0.97,Road,5,6888,155.95,10
+Hard Drive,Storage,1595.52,1.28,Air,3,1234,335.1,6
+Hard Drive,Storage,745.31,1.12,Air,1,723,163.06,2
+Drone,Gadgets,1901.4,3.58,Air,4,920,469.78,7
+Tablet,Electronics,499.07,2.14,Road,2,1710,68.45,3
+SSD,Storage,1493.43,0.35,Air,4,803,303.06,7
+Smart Watch,Gadgets,2295.23,3.53,Air,5,1744,547.3,9
+Mobile Phone,Electronics,704.73,0.91,Road,5,3941,76.39,7
+Camera,Gadgets,916.85,3.95,Air,4,1717,282.12,6
+Drone,Gadgets,1249.83,1.74,Road,5,906,140.86,9
+Mouse,Accessories,948.26,0.94,Air,2,3423,199.05,4
+Camera,Gadgets,424.67,1.04,Road,5,2424,53.25,6
+Hard Drive,Storage,1234.28,0.5,Road,4,791,121.49,8
+Speaker,Accessories,668.85,2.41,Road,2,5482,75.78,4
+Mobile Phone,Electronics,1436.8,2.77,Rail,2,1792,137.1,7
+Mobile Phone,Electronics,740.29,3.27,Road,5,2682,102.46,7
+Microwave,Home Appliances,1974.97,32.37,Road,4,757,772.26,10
+Smart Watch,Gadgets,808.37,2.62,Air,1,2269,227.17,2
+SSD,Storage,1038.97,0.23,Air,5,2904,210.67,7
+Tablet,Electronics,1606.76,2.52,Road,2,3427,178.44,7
+Smart Watch,Gadgets,584.57,2.38,Air,5,2285,176.41,6
+Microwave,Home Appliances,1313.73,32.44,Road,3,414,710.04,7
+Speaker,Accessories,1853.57,1.35,Road,4,6506,184.42,9
+Monitor,Electronics,396.26,0.81,Air,1,4664,95.45,2
+TV,Home Appliances,1292.32,50.9,Road,5,1146,1040.26,9
+Microwave,Home Appliances,1329.94,17.75,Air,4,1480,931.61,6
+Microwave,Home Appliances,1590.91,18.59,Road,3,1097,487.35,8
+Microwave,Home Appliances,581.52,9.5,Road,2,524,226.83,4
+Hard Drive,Storage,539.77,0.92,Air,1,2390,119.45,2
+Mobile Phone,Electronics,1460.97,2.24,Road,5,4389,161.76,9
+SSD,Storage,1348.49,1.29,Rail,2,2370,114.33,7
+Camera,Gadgets,1325.25,2.1,Rail,5,1059,127.02,10
+Tablet,Electronics,1373.22,3.2,Rail,3,4726,135.46,8
+Drone,Gadgets,859.99,4.16,Air,3,2904,276.0,4
+Smart Watch,Gadgets,1316.13,2.6,Air,5,2483,328.23,7
+SSD,Storage,1346.54,0.92,Road,4,1818,134.79,8
+Mouse,Accessories,842.82,1.8,Air,4,2357,186.56,5
+SSD,Storage,2132.89,1.12,Rail,4,1123,176.23,12
+Microwave,Home Appliances,1436.92,14.56,Rail,3,405,333.35,8
+Microwave,Home Appliances,604.35,35.35,Road,2,1039,694.32,4
+Keyboard,Accessories,1528.28,1.51,Rail,3,5256,128.3,9
+Tablet,Electronics,712.66,3.48,Rail,4,2797,84.85,7
+TV,Home Appliances,1593.54,9.87,Air,3,665,688.83,6
+Monitor,Electronics,1779.3,3.92,Road,1,3317,208.44,6
+Speaker,Accessories,789.66,2.73,Air,1,4403,185.23,2
+SSD,Storage,1681.69,0.76,Air,4,2818,345.84,7
+Mouse,Accessories,1406.39,0.69,Road,4,3972,138.33,8
+TV,Home Appliances,1611.03,15.44,Road,3,1141,432.58,8
+Hard Drive,Storage,2148.4,1.37,Road,3,2738,214.47,9
+Keyboard,Accessories,1077.31,1.44,Air,5,4450,229.86,7
+TV,Home Appliances,823.13,21.01,Rail,2,987,381.0,5
+Microwave,Home Appliances,755.24,20.33,Road,5,805,438.44,7
+Hard Drive,Storage,792.09,1.47,Road,3,533,84.86,5
+Smart Watch,Gadgets,1161.45,3.96,Rail,5,2534,132.52,9
+Hard Drive,Storage,1370.58,0.99,Air,2,1526,286.49,4
+Keyboard,Accessories,1338.35,2.73,Road,3,5611,141.59,7
+Tablet,Electronics,1613.59,3.06,Air,3,2838,383.92,6
+Microwave,Home Appliances,1206.5,18.44,Road,3,1287,447.74,6
+Drone,Gadgets,1926.77,4.2,Air,4,1708,490.35,7
+Hard Drive,Storage,1067.67,0.81,Air,2,2127,223.66,4
+Drone,Gadgets,2560.08,0.72,Air,3,2697,530.02,7
+Monitor,Electronics,1512.83,1.79,Road,3,3894,162.42,7
+TV,Home Appliances,771.42,56.9,Road,2,1165,1098.26,4
+Tablet,Electronics,664.55,3.7,Air,1,4102,206.91,2
+TV,Home Appliances,1441.24,23.71,Road,2,292,565.14,6
+Tablet,Electronics,1088.27,3.99,Air,2,3701,297.45,4
+Headphones,Accessories,1557.0,1.47,Road,5,5433,156.53,9
+Smart Watch,Gadgets,1436.62,3.72,Rail,1,2504,152.13,6
+Drone,Gadgets,1163.59,4.71,Air,3,1389,350.47,5
+Refrigerator,Home Appliances,776.6,57.43,Sea,1,952,738.86,5
+Smart Watch,Gadgets,442.58,1.99,Air,2,1000,138.27,3
+Microwave,Home Appliances,976.74,42.46,Rail,5,243,715.04,9
+Tablet,Electronics,1628.2,1.35,Air,5,2340,352.64,8
+Mobile Phone,Electronics,1307.05,2.55,Rail,2,2845,124.96,7
+Keyboard,Accessories,577.13,0.98,Rail,2,6425,50.09,4
+Hard Drive,Storage,1286.59,0.34,Rail,2,560,104.63,7
+Hard Drive,Storage,1392.66,0.97,Air,3,714,290.66,5
+Headphones,Accessories,758.07,1.67,Road,4,5672,80.79,6
+Hard Drive,Storage,1276.86,0.79,Air,5,677,265.25,7
+Drone,Gadgets,1229.1,2.45,Rail,1,2461,122.83,6
+Refrigerator,Home Appliances,628.51,43.68,Road,4,350,846.58,6
+Tablet,Electronics,1378.89,2.63,Air,3,4057,328.38,5
+Smart Watch,Gadgets,1480.39,3.65,Air,5,2673,387.33,8
+SSD,Storage,1741.53,0.86,Road,1,2758,172.35,6
+Headphones,Accessories,1726.9,1.46,Air,3,5715,359.98,6
+Refrigerator,Home Appliances,511.17,45.94,Road,3,722,875.99,4
+Hard Drive,Storage,731.09,1.09,Road,1,849,76.72,3
+Monitor,Electronics,1457.52,0.84,Road,2,3778,147.99,6
+Tablet,Electronics,1456.89,2.85,Road,4,4453,167.22,8
+Tablet,Electronics,1457.52,2.6,Air,5,3578,343.5,7
+Mouse,Accessories,3000.0,2.04,Air,1,4868,620.4,6
+Drone,Gadgets,1485.45,0.84,Air,2,2257,318.09,5
+Smart Watch,Gadgets,1767.78,3.18,Road,1,2994,207.87,6
+Hard Drive,Storage,1677.0,0.43,Road,3,1891,163.57,8
+Hard Drive,Storage,1525.7,0.44,Air,4,785,310.64,7
+Keyboard,Accessories,1042.37,0.46,Road,4,5439,102.28,7
+Refrigerator,Home Appliances,1579.48,16.19,Air,3,1362,923.02,6
+Camera,Gadgets,813.59,4.45,Air,5,703,273.97,6
+Tablet,Electronics,1081.59,2.05,Road,5,3310,123.51,8
+Refrigerator,Home Appliances,957.32,19.21,Road,3,1080,437.68,6
+Tablet,Electronics,1240.94,2.87,Road,5,4232,146.68,9
+Hard Drive,Storage,2357.33,0.49,Rail,1,531,191.04,10
+Speaker,Accessories,266.37,2.85,Road,3,4371,39.25,4
+Hard Drive,Storage,1543.13,0.21,Road,2,1029,149.4,6
+TV,Home Appliances,393.64,44.59,Rail,3,347,700.34,4
+TV,Home Appliances,964.03,10.2,Air,1,841,575.31,3
+Drone,Gadgets,1744.48,2.99,Road,4,1685,203.35,9
+Monitor,Electronics,1232.14,0.57,Air,5,3384,257.83,7
+Hard Drive,Storage,661.13,0.77,Air,4,2912,141.85,5
+TV,Home Appliances,842.35,12.09,Rail,3,653,248.74,6
+Hard Drive,Storage,1539.8,0.3,Road,5,2588,149.62,9
+Speaker,Accessories,834.82,1.18,Rail,2,3935,71.51,5
+Mobile Phone,Electronics,1308.23,1.4,Air,2,4613,289.65,4
+Mobile Phone,Electronics,1222.79,3.83,Road,4,4590,154.16,7
+Smart Watch,Gadgets,874.2,2.41,Rail,5,1823,94.04,8
+Hard Drive,Storage,2271.97,0.77,Road,3,1625,222.73,9
+Camera,Gadgets,1516.96,1.95,Air,4,2351,352.14,7
+Laptop,Electronics,187.43,1.79,Air,1,4019,73.29,1
+Smart Watch,Gadgets,1293.23,2.11,Road,1,2342,149.47,5
+Smart Watch,Gadgets,869.11,1.18,Road,5,1117,97.59,7
+Monitor,Electronics,1626.22,0.86,Rail,3,4425,136.98,9
+Mobile Phone,Electronics,803.74,0.64,Road,4,3646,83.3,6
+Smart Watch,Gadgets,1142.63,1.05,Air,3,2086,254.78,5
+Refrigerator,Home Appliances,1452.49,43.3,Road,3,334,918.84,7
+Hard Drive,Storage,1632.88,0.93,Air,3,2968,338.2,6
+Speaker,Accessories,599.85,0.43,Road,3,4541,59.65,5
+Microwave,Home Appliances,1032.75,38.94,Sea,3,1344,533.38,9
+TV,Home Appliances,962.53,49.17,Rail,5,391,814.55,9
+TV,Home Appliances,873.34,26.82,Road,2,638,566.6,4
+SSD,Storage,2082.73,0.45,Rail,2,816,168.87,10
+Hard Drive,Storage,1402.49,0.86,Road,5,654,139.8,9
+Hard Drive,Storage,569.56,0.98,Air,2,1178,126.16,3
+Microwave,Home Appliances,1658.93,29.36,Rail,2,1109,573.11,8
+Drone,Gadgets,2261.08,3.84,Road,2,2687,263.14,8
+Speaker,Accessories,1716.23,2.9,Road,2,5013,178.68,7
+Drone,Gadgets,440.32,2.47,Air,4,2559,149.81,5
+Drone,Gadgets,957.88,4.84,Rail,5,1066,125.03,9
+Hard Drive,Storage,1833.46,1.03,Rail,5,920,151.83,12
+Camera,Gadgets,846.17,1.64,Road,3,2340,100.91,5
+Camera,Gadgets,1421.91,4.21,Air,2,2347,389.63,4
+Hard Drive,Storage,1587.32,0.74,Air,3,1465,326.71,6
+Microwave,Home Appliances,736.53,27.5,Road,1,886,565.71,3
+Mouse,Accessories,1170.24,0.31,Rail,4,3136,94.86,8
+Refrigerator,Home Appliances,50.0,40.0,Sea,1,724,483.2,1
+Mouse,Accessories,687.81,1.74,Road,5,5467,74.38,7
+Tablet,Electronics,1073.72,1.33,Air,2,3219,241.34,4
+Drone,Gadgets,576.11,0.6,Rail,4,2944,52.09,6
+Camera,Gadgets,2016.21,3.27,Road,2,1693,232.8,8
+Microwave,Home Appliances,484.93,39.97,Road,4,583,766.01,5
+Tablet,Electronics,979.98,0.74,Road,5,4721,101.18,8
+Smart Watch,Gadgets,1265.37,0.4,Rail,1,2084,105.23,6
+SSD,Storage,1920.64,1.17,Air,1,1912,398.75,4
+Keyboard,Accessories,482.07,2.36,Road,3,3092,57.61,4
+Tablet,Electronics,1781.58,2.41,Rail,2,4901,161.81,9
+TV,Home Appliances,1205.12,32.88,Road,2,329,707.53,5
+Microwave,Home Appliances,709.25,23.26,Air,2,285,1014.1,3
+SSD,Storage,1431.05,0.87,Rail,5,2439,118.83,10
+Hard Drive,Storage,1299.53,1.18,Air,3,695,274.66,5
+SSD,Storage,899.89,0.36,Air,4,2301,184.48,6
+Refrigerator,Home Appliances,1234.9,58.63,Road,4,952,1173.89,8
+Drone,Gadgets,1007.34,4.07,Road,1,2263,145.54,4
+Camera,Gadgets,1256.76,2.86,Air,1,1843,322.85,3
+SSD,Storage,1531.07,0.78,Road,2,2318,151.66,6
+SSD,Storage,1993.01,0.26,Rail,3,2281,160.74,10
+Hard Drive,Storage,581.09,0.3,Road,3,2601,57.58,5
+Keyboard,Accessories,2266.52,0.6,Road,4,2285,220.47,10
+Keyboard,Accessories,223.96,0.86,Road,3,5136,25.63,4
+Camera,Gadgets,1124.11,3.14,Road,3,2023,145.59,6
+Microwave,Home Appliances,1494.16,37.84,Rail,4,843,687.13,10
+Hard Drive,Storage,1340.5,1.45,Air,2,2544,286.23,4
+Drone,Gadgets,888.65,4.59,Air,3,2327,292.48,5
+Speaker,Accessories,1095.94,2.14,Rail,2,3004,96.24,6
+Keyboard,Accessories,953.5,1.47,Rail,4,2719,82.16,8
+SSD,Storage,905.32,1.12,Road,3,1728,93.63,6
+Mouse,Accessories,1624.8,2.42,Road,1,3646,167.6,6
+Mouse,Accessories,1378.51,2.41,Air,5,6688,299.8,7
+SSD,Storage,853.55,1.24,Road,5,853,89.38,7
+Tablet,Electronics,1649.8,1.89,Road,4,3653,176.52,9
+Refrigerator,Home Appliances,1353.65,50.81,Road,3,351,1044.53,7
+Refrigerator,Home Appliances,1606.43,43.37,Road,5,1403,934.88,10
+Mouse,Accessories,1514.81,1.41,Rail,1,3017,126.82,7
+Camera,Gadgets,785.5,1.73,Air,2,1917,200.35,3
+Drone,Gadgets,919.91,4.28,Air,5,1624,290.98,7
+Speaker,Accessories,1573.65,1.92,Air,2,6848,333.93,5
+Camera,Gadgets,1505.19,1.1,Road,5,1882,157.7,9
+Camera,Gadgets,1189.55,4.18,Air,1,2862,342.41,3
+Hard Drive,Storage,1258.66,1.2,Road,1,2539,128.03,5
+Drone,Gadgets,1838.83,3.32,Air,2,2163,450.77,5
+SSD,Storage,904.21,0.29,Air,4,2202,184.47,6
+Refrigerator,Home Appliances,1473.55,18.61,Road,3,853,476.44,7
+SSD,Storage,1098.9,0.37,Air,5,934,224.41,7
+Hard Drive,Storage,1091.16,0.81,Air,2,1077,228.36,4
+Laptop,Electronics,1749.39,1.52,Air,5,3212,380.28,8
+Mouse,Accessories,1612.71,2.48,Rail,3,3555,138.94,9
+Headphones,Accessories,1606.75,2.99,Road,3,6074,168.6,8
+Laptop,Electronics,1852.74,3.81,Road,2,2381,214.44,7
+Drone,Gadgets,1210.5,0.53,Air,5,2427,255.35,7
+Hard Drive,Storage,1540.98,1.3,Road,3,1998,155.73,7
+Refrigerator,Home Appliances,1044.87,10.35,Air,5,598,597.1,7
+SSD,Storage,1362.08,0.3,Road,5,1645,132.56,9
+Smart Watch,Gadgets,1134.93,3.17,Air,1,2113,306.24,3
+SSD,Storage,1248.5,0.93,Air,2,1315,261.32,4
+Smart Watch,Gadgets,1497.58,2.19,Air,1,1061,354.27,4
+SSD,Storage,790.89,0.88,Air,5,1072,169.18,6
+SSD,Storage,2246.19,0.41,Rail,3,2931,181.75,11
+SSD,Storage,696.99,1.12,Air,1,2008,153.4,2
+Hard Drive,Storage,592.91,1.47,Road,1,2944,65.74,3
+Refrigerator,Home Appliances,1779.06,58.29,Rail,5,1382,1016.67,12
+Keyboard,Accessories,1595.83,1.83,Air,5,5114,337.47,8
+Mouse,Accessories,1512.06,0.29,Rail,1,3562,122.12,7
+Monitor,Electronics,1514.17,1.6,Air,2,3180,334.83,5
+Smart Watch,Gadgets,1193.88,4.63,Rail,1,1065,141.81,5
+Camera,Gadgets,751.37,2.94,Rail,4,2652,89.51,7
+Refrigerator,Home Appliances,1237.9,57.75,Road,5,901,1158.34,9
+Drone,Gadgets,861.42,3.48,Rail,3,2998,103.71,6
+Microwave,Home Appliances,1687.56,57.78,Road,3,660,1202.05,8
+SSD,Storage,1126.47,1.12,Road,4,1798,114.86,7
+Refrigerator,Home Appliances,787.25,37.15,Sea,3,789,496.18,7
+Monitor,Electronics,1039.31,3.64,Air,3,4666,280.66,5
+Speaker,Accessories,1406.47,0.32,Rail,1,4837,113.8,6
+TV,Home Appliances,918.14,21.34,Road,2,1303,472.26,5
+SSD,Storage,788.89,0.38,Road,5,1480,78.01,7
+Keyboard,Accessories,1321.84,2.08,Road,2,2430,136.88,6
+Monitor,Electronics,1322.48,1.66,Road,2,1521,142.89,6
+Camera,Gadgets,946.53,2.21,Rail,4,2455,97.82,8
+Speaker,Accessories,964.48,1.1,Road,1,6703,97.87,4
+Keyboard,Accessories,1316.02,2.76,Air,2,2297,290.8,4
+Refrigerator,Home Appliances,475.96,17.69,Road,3,276,364.11,4
+Tablet,Electronics,496.27,2.49,Air,3,2665,149.05,4
+TV,Home Appliances,840.78,36.25,Road,2,1232,733.21,4
+Refrigerator,Home Appliances,1093.28,18.03,Air,2,1139,894.78,4
+Hard Drive,Storage,1355.45,0.22,Air,3,2825,273.84,5
+Mouse,Accessories,1937.68,1.91,Road,4,5503,195.19,10
+Drone,Gadgets,1628.83,0.71,Road,2,1075,164.89,7
+Refrigerator,Home Appliances,1120.03,56.66,Road,4,682,1127.4,7
+Refrigerator,Home Appliances,1190.49,57.61,Road,5,223,1151.27,8
+SSD,Storage,698.74,1.1,Air,1,2406,153.5,2
+Hard Drive,Storage,1190.74,0.73,Road,3,980,118.69,6
+SSD,Storage,1055.67,1.0,Air,2,2458,223.63,4
+Headphones,Accessories,1361.36,2.29,Road,4,6499,141.68,8
+TV,Home Appliances,786.38,49.7,Rail,2,1420,808.41,5
+Monitor,Electronics,1459.67,2.35,Air,5,1959,338.93,8
+Mobile Phone,Electronics,1966.37,2.5,Air,3,4999,443.27,6
+Drone,Gadgets,1145.62,0.85,Air,5,2502,250.37,7
+Monitor,Electronics,1400.86,3.33,Road,5,3201,166.45,9
+TV,Home Appliances,1545.07,11.0,Road,3,244,346.33,7
+Refrigerator,Home Appliances,999.39,50.46,Rail,5,349,836.85,9
+Monitor,Electronics,1312.05,1.71,Air,1,1782,296.61,3
+Microwave,Home Appliances,1206.3,22.93,Air,2,1060,1101.13,4
+SSD,Storage,1248.84,0.78,Rail,4,2038,103.81,9
+Mobile Phone,Electronics,813.5,2.79,Air,2,3700,218.5,3
+TV,Home Appliances,1212.26,14.62,Rail,1,246,316.28,6
+SSD,Storage,1449.0,1.08,Road,5,2053,145.58,9
+Mouse,Accessories,1925.57,1.49,Air,2,2924,400.01,5
+Monitor,Electronics,1679.64,2.65,Rail,1,2485,155.57,7
+Keyboard,Accessories,2276.59,0.48,Air,5,2398,460.12,9
+Keyboard,Accessories,816.33,1.33,Air,2,2462,176.57,3
+Speaker,Accessories,1636.16,0.86,Rail,5,4612,134.33,11
+Smart Watch,Gadgets,1291.67,3.93,Rail,2,1736,142.63,7
+Mouse,Accessories,2294.9,1.36,Air,5,6846,472.58,9
+Headphones,Accessories,795.85,1.76,Air,3,5122,176.77,4
+Drone,Gadgets,780.14,3.57,Road,3,2041,117.73,5
+Headphones,Accessories,900.3,0.87,Air,2,5793,188.76,4
+Monitor,Electronics,138.05,3.89,Road,2,3090,50.6,2
+Speaker,Accessories,937.12,0.77,Road,4,5039,93.66,7
+Mobile Phone,Electronics,820.43,0.68,Air,5,3969,177.69,6
+Laptop,Electronics,1275.2,1.16,Road,5,2388,133.56,9
+Microwave,Home Appliances,1370.88,53.21,Road,1,633,1089.38,5
+Keyboard,Accessories,2138.09,2.29,Road,2,6951,216.25,8
+Headphones,Accessories,1675.21,2.76,Road,3,5118,174.07,8
+TV,Home Appliances,911.55,41.73,Road,3,1250,838.65,6
+Refrigerator,Home Appliances,750.79,13.13,Rail,4,855,257.01,7
+Speaker,Accessories,1445.96,1.08,Air,2,3195,299.99,4
+Tablet,Electronics,539.88,2.44,Road,4,2709,75.25,6
+Mouse,Accessories,2115.73,1.12,Air,2,6090,434.35,6
+Smart Watch,Gadgets,1789.72,4.73,Air,4,2509,476.19,7
+Microwave,Home Appliances,965.41,46.1,Road,2,1319,922.48,5
+Microwave,Home Appliances,343.43,55.68,Rail,1,1273,862.67,2
+Laptop,Electronics,1876.94,3.81,Road,1,3189,216.76,6
+Mouse,Accessories,1142.73,0.39,Air,2,6142,232.45,4
+Refrigerator,Home Appliances,1818.91,11.14,Road,5,1189,375.14,10
+Microwave,Home Appliances,402.79,8.34,Road,1,234,188.79,2
+Smart Watch,Gadgets,900.31,1.59,Rail,1,2557,87.92,4
+Microwave,Home Appliances,1202.62,13.56,Air,2,693,749.02,4
+Speaker,Accessories,1223.49,2.48,Air,4,2647,269.5,6
+SSD,Storage,974.97,0.8,Air,2,1728,204.99,4
+Laptop,Electronics,1511.42,0.83,Air,5,3449,318.88,8
+Laptop,Electronics,666.19,2.96,Air,4,4141,192.44,5
+Hard Drive,Storage,1128.81,1.36,Rail,2,1365,97.1,6
+Drone,Gadgets,1260.15,1.57,Rail,3,2724,116.51,8
+Smart Watch,Gadgets,1457.22,0.45,Rail,3,564,121.08,8
+Mouse,Accessories,1555.81,2.31,Road,4,2630,160.45,8
+Hard Drive,Storage,637.68,0.93,Road,4,2714,66.8,6
+SSD,Storage,432.94,1.18,Air,1,2551,101.34,2
+Hard Drive,Storage,1838.84,0.33,Air,1,1895,371.89,4
+Smart Watch,Gadgets,1366.16,4.79,Air,3,621,392.98,5
+SSD,Storage,825.76,0.84,Air,4,2268,175.65,5
+Headphones,Accessories,1975.58,0.44,Road,2,2602,191.77,8
+Tablet,Electronics,1257.84,1.04,Road,2,4529,130.74,6
+Refrigerator,Home Appliances,1789.65,26.76,Road,3,1110,653.49,8
+SSD,Storage,1233.76,0.33,Air,4,2338,250.88,6
+Smart Watch,Gadgets,2230.37,2.71,Air,1,1949,513.82,5
+Camera,Gadgets,2077.67,3.11,Road,4,550,236.78,10
+SSD,Storage,1075.52,0.7,Air,5,1494,223.85,7
+Smart Watch,Gadgets,1685.79,1.1,Air,2,1601,364.66,5
+SSD,Storage,1522.69,0.84,Air,4,1630,315.04,7
+Refrigerator,Home Appliances,1884.32,33.18,Road,3,705,778.13,8
+TV,Home Appliances,717.54,40.07,Road,2,823,790.14,4
+Monitor,Electronics,1543.03,1.66,Road,3,3303,164.07,7
+SSD,Storage,1729.21,1.26,Rail,5,1057,144.64,11
+SSD,Storage,320.63,0.98,Road,4,1786,36.66,5
+Headphones,Accessories,608.37,2.91,Air,4,6717,150.77,5
+Speaker,Accessories,180.38,1.25,Rail,4,4990,19.43,5
+Mobile Phone,Electronics,1065.3,2.57,Road,5,1610,126.94,8
+TV,Home Appliances,1558.77,18.9,Road,1,1037,489.84,5
+Microwave,Home Appliances,1951.18,40.93,Road,2,1066,924.05,8
+Microwave,Home Appliances,1237.05,31.35,Rail,5,1020,569.21,10
+Smart Watch,Gadgets,2014.31,4.64,Rail,4,2726,207.54,11
+Tablet,Electronics,509.95,2.96,Rail,5,4113,64.48,7
+Laptop,Electronics,348.31,3.19,Road,3,2181,64.06,4
+Camera,Gadgets,1172.23,2.95,Road,4,1858,147.93,7
+Microwave,Home Appliances,1392.03,8.55,Air,5,1262,599.03,7
+Smart Watch,Gadgets,1183.65,3.53,Air,3,2102,324.98,5
+TV,Home Appliances,166.28,38.61,Rail,3,250,592.45,4
+Microwave,Home Appliances,1155.44,23.36,Rail,1,437,442.84,5
+Speaker,Accessories,547.77,1.07,Road,2,6268,57.72,4
+Refrigerator,Home Appliances,1534.84,32.76,Road,4,853,737.02,8
+Tablet,Electronics,1383.3,0.66,Road,1,4978,139.13,5
+Hard Drive,Storage,730.06,1.08,Air,2,2613,159.51,3
+Mouse,Accessories,943.07,1.13,Road,4,3899,95.96,7
+TV,Home Appliances,670.39,17.59,Road,4,1010,380.98,6
+Mobile Phone,Electronics,1168.66,2.07,Road,1,4386,132.06,4
+Mouse,Accessories,1677.57,0.98,Road,1,6729,165.75,6
+Mobile Phone,Electronics,707.14,1.78,Air,1,2574,177.03,2
+TV,Home Appliances,1452.02,58.23,Road,4,1451,1187.53,8
+TV,Home Appliances,934.87,13.94,Air,4,1464,709.72,6
+Speaker,Accessories,803.56,2.77,Road,2,4565,90.44,4
+Mobile Phone,Electronics,1146.48,1.57,Air,2,3592,260.7,4
+Refrigerator,Home Appliances,682.38,39.01,Rail,4,580,639.74,7
+TV,Home Appliances,923.18,35.94,Sea,2,1336,490.36,7
+Headphones,Accessories,601.06,1.01,Air,4,2439,130.31,5
+Hard Drive,Storage,2182.36,0.83,Air,4,2800,446.85,8
+Smart Watch,Gadgets,1217.63,2.63,Road,4,2318,148.45,7
+Microwave,Home Appliances,850.14,12.3,Air,2,798,631.28,3
+Tablet,Electronics,1306.99,1.29,Air,4,3816,287.2,6
+TV,Home Appliances,1143.84,34.56,Rail,3,1312,609.91,7
+Hard Drive,Storage,1089.52,1.19,Road,2,2241,111.73,5
+Mobile Phone,Electronics,1507.08,1.54,Rail,4,2576,132.89,10
+Hard Drive,Storage,1578.75,0.77,Rail,2,1359,130.15,8
+Smart Watch,Gadgets,934.75,1.95,Road,4,1179,113.14,7
+Camera,Gadgets,912.09,3.99,Rail,1,2835,112.87,4
+SSD,Storage,1062.47,0.98,Air,3,1685,224.74,5
+Drone,Gadgets,50.0,4.78,Road,1,1055,62.16,1
+Microwave,Home Appliances,442.4,59.61,Sea,2,471,743.63,5
+Mouse,Accessories,1883.44,2.19,Rail,4,6009,159.44,11
+Speaker,Accessories,2022.48,1.96,Air,1,2762,424.1,4
+TV,Home Appliances,1075.48,46.99,Rail,3,1131,790.89,7
+Refrigerator,Home Appliances,1488.28,38.26,Sea,1,1138,554.37,10
+Hard Drive,Storage,1355.63,1.23,Air,4,1367,286.5,6
+Refrigerator,Home Appliances,2739.44,24.79,Air,5,1383,1477.51,10
+Headphones,Accessories,1759.79,2.41,Rail,1,2376,150.42,8
+Monitor,Electronics,1136.04,0.56,Rail,2,3307,95.36,6
+Microwave,Home Appliances,722.23,59.58,Road,2,818,1141.77,4
+Speaker,Accessories,396.78,0.46,Air,1,5046,83.96,2
+Keyboard,Accessories,1301.73,1.31,Air,2,5516,273.45,4
+Laptop,Electronics,821.82,0.5,Road,2,3931,83.69,4
+Headphones,Accessories,488.87,0.23,Road,1,5459,48.04,2
+Headphones,Accessories,876.71,0.4,Air,1,2845,179.34,3
+SSD,Storage,659.23,1.35,Air,2,1085,148.72,3
+Laptop,Electronics,2043.57,2.64,Air,3,4459,461.51,7
+Mouse,Accessories,1640.82,2.78,Road,4,3779,170.86,9
+Laptop,Electronics,1196.01,0.99,Air,4,2939,259.0,6
+Refrigerator,Home Appliances,1939.97,49.14,Road,1,708,1070.76,7
+Smart Watch,Gadgets,1238.68,3.12,Road,1,1735,156.35,5
+Mouse,Accessories,769.36,2.29,Air,1,3960,176.77,2
+Refrigerator,Home Appliances,1961.56,13.86,Road,5,345,437.79,11
+Camera,Gadgets,1469.46,4.94,Rail,2,2084,166.96,7
+Drone,Gadgets,681.38,2.02,Road,4,798,89.65,6
+Laptop,Electronics,1104.83,0.55,Air,1,4732,231.97,3
+TV,Home Appliances,762.19,22.9,Road,4,1067,485.37,6
+Microwave,Home Appliances,508.6,41.31,Rail,2,768,660.34,4
+Tablet,Electronics,1663.09,0.78,Rail,2,3697,139.29,8
+SSD,Storage,2154.71,0.96,Road,1,1770,212.61,7
+TV,Home Appliances,500.72,57.58,Road,2,376,1084.51,3
+Microwave,Home Appliances,1481.48,31.58,Rail,3,559,592.22,9
+Laptop,Electronics,874.68,2.98,Road,2,3533,112.58,4
+SSD,Storage,956.44,0.42,Air,3,983,196.54,5
+Tablet,Electronics,903.8,3.32,Air,1,2577,247.16,3
+Smart Watch,Gadgets,768.0,0.66,Road,3,727,81.65,5
+TV,Home Appliances,1224.26,16.68,Air,1,1375,870.35,3
+Mobile Phone,Electronics,784.52,3.09,Air,1,2501,218.7,2
+Monitor,Electronics,1335.23,1.77,Rail,2,1644,120.98,7
+Smart Watch,Gadgets,1174.88,3.78,Road,3,1516,158.15,6
+TV,Home Appliances,1080.53,24.64,Rail,5,963,456.04,9
+Laptop,Electronics,746.22,1.13,Rail,1,3142,68.74,4
+Monitor,Electronics,911.61,3.53,Road,3,2840,121.4,6
+Monitor,Electronics,1577.7,0.53,Air,5,4713,326.14,8
+Hard Drive,Storage,1450.46,0.8,Road,4,1300,144.04,8
+Camera,Gadgets,711.22,1.01,Rail,1,1454,67.0,4
+Drone,Gadgets,1249.67,3.29,Road,1,1872,159.45,5
+Monitor,Electronics,1575.69,3.47,Road,1,2340,184.58,6
+Camera,Gadgets,365.3,2.27,Rail,2,1646,51.92,3
+Laptop,Electronics,1471.68,3.72,Rail,5,3191,147.49,10
+SSD,Storage,868.69,1.47,Air,1,2570,192.11,2
+Headphones,Accessories,1485.3,0.41,Road,4,3070,144.56,8
+Speaker,Accessories,818.37,0.93,Air,4,4672,172.97,5
+SSD,Storage,297.56,0.55,Air,2,1057,66.39,3
+Camera,Gadgets,386.23,1.03,Air,4,1786,103.0,5
+Microwave,Home Appliances,1224.04,35.87,Sea,2,1125,508.78,9
+SSD,Storage,1329.86,0.54,Air,2,1746,272.72,4
+Camera,Gadgets,747.84,1.31,Rail,2,873,72.93,5
+Speaker,Accessories,1519.3,1.31,Air,3,4131,316.96,6
+Keyboard,Accessories,369.24,2.87,Rail,5,6506,41.02,6
+Keyboard,Accessories,1166.96,1.49,Rail,2,2994,99.32,6
+Laptop,Electronics,594.49,3.41,Rail,2,2311,74.84,4
+Refrigerator,Home Appliances,874.08,43.69,Sea,1,1392,580.22,6
+Drone,Gadgets,1223.7,4.61,Air,1,1309,359.99,3
+Microwave,Home Appliances,769.79,12.78,Rail,3,450,253.28,6
+Monitor,Electronics,1007.72,0.68,Rail,4,4865,86.06,8
+Refrigerator,Home Appliances,1703.15,9.53,Road,2,924,335.04,7
+Mouse,Accessories,911.55,0.97,Road,2,2283,92.16,5
+Smart Watch,Gadgets,1617.85,3.2,Road,4,2187,193.71,9
+Drone,Gadgets,635.15,0.59,Air,2,2217,141.78,3
+Mouse,Accessories,1464.9,1.97,Rail,1,5133,125.07,6
+SSD,Storage,1920.78,0.91,Road,5,2557,189.85,10
+SSD,Storage,50.0,0.55,Air,5,1397,16.88,5
+Tablet,Electronics,801.55,0.71,Rail,5,2964,69.8,8
+Camera,Gadgets,1488.54,4.88,Air,2,1591,419.71,5
+Smart Watch,Gadgets,1098.48,0.56,Rail,2,2858,93.48,6
+Refrigerator,Home Appliances,1385.57,56.63,Sea,2,560,768.24,10
+Speaker,Accessories,898.01,2.46,Road,5,2231,98.02,8
+Hard Drive,Storage,1243.29,0.93,Air,4,2720,260.28,6
+Hard Drive,Storage,1122.16,0.84,Air,2,2964,234.93,4
+Keyboard,Accessories,1783.89,1.67,Air,5,3650,373.48,8
+Speaker,Accessories,1327.21,2.21,Rail,3,2487,115.02,8
+Mobile Phone,Electronics,1368.8,2.55,Rail,1,4967,129.9,6
+Drone,Gadgets,994.06,4.81,Air,4,2900,319.06,6
+Tablet,Electronics,956.2,1.56,Air,2,4499,222.44,4
+TV,Home Appliances,983.72,57.95,Rail,2,1350,947.95,6
+Drone,Gadgets,1397.23,1.35,Road,2,2049,150.33,6
+SSD,Storage,989.51,0.37,Road,5,2103,97.21,8
+Camera,Gadgets,1344.89,1.16,Air,5,1404,297.98,7
+Camera,Gadgets,2237.7,4.7,Air,1,1474,565.04,5
+SSD,Storage,1635.56,0.42,Rail,1,1875,132.94,7
+Microwave,Home Appliances,1036.99,21.79,Air,1,917,1024.52,3
+Hard Drive,Storage,1800.61,1.14,Air,4,2218,374.37,7
+Headphones,Accessories,995.96,1.58,Air,5,5074,214.99,7
+Monitor,Electronics,180.94,3.26,Road,2,2166,48.67,3
+Microwave,Home Appliances,695.96,49.56,Road,1,852,958.89,3
+Hard Drive,Storage,264.6,0.3,Air,4,1159,56.67,4
+Laptop,Electronics,1024.24,1.68,Rail,4,4385,95.38,8
+Monitor,Electronics,1209.21,3.8,Air,4,2143,317.84,6
+Laptop,Electronics,2038.22,1.66,Rail,4,4355,176.34,12
+Smart Watch,Gadgets,1363.46,4.65,Road,3,1718,186.69,7
+Keyboard,Accessories,1090.45,0.34,Road,4,3258,106.32,7
+Tablet,Electronics,1614.7,0.51,Air,5,3467,333.14,8
+Keyboard,Accessories,94.43,0.27,Air,3,2671,21.59,3
+Microwave,Home Appliances,1317.81,24.03,Air,4,742,1164.69,6
+Monitor,Electronics,1585.43,1.15,Rail,3,2264,136.03,9
+Microwave,Home Appliances,460.71,21.69,Road,2,750,434.65,3
+Camera,Gadgets,1771.88,1.01,Road,1,851,182.22,6
+SSD,Storage,1369.25,1.46,Road,5,749,140.21,9
+TV,Home Appliances,992.36,29.77,Rail,4,1372,525.94,8
+Headphones,Accessories,1516.39,1.04,Air,1,6113,313.68,4
+Smart Watch,Gadgets,2335.35,4.06,Road,5,1103,272.91,12
+Monitor,Electronics,1290.93,1.11,Rail,2,4811,112.15,7
+Mouse,Accessories,1324.11,0.32,Air,4,3654,268.02,6
+Speaker,Accessories,970.32,1.1,Road,1,2712,98.43,4
+TV,Home Appliances,775.08,28.66,Road,3,1264,590.29,5
+Microwave,Home Appliances,1615.17,48.9,Rail,5,1059,862.71,11
+Monitor,Electronics,771.96,1.02,Road,5,4606,83.9,7
+Laptop,Electronics,1235.78,2.47,Air,3,3693,296.56,5
+SSD,Storage,961.17,0.54,Road,5,2994,95.51,8
+Microwave,Home Appliances,1439.49,16.95,Road,5,1446,443.29,9
+Microwave,Home Appliances,1366.83,28.58,Sea,2,300,430.44,10
+Refrigerator,Home Appliances,1718.77,54.65,Road,3,836,1148.7,8
+SSD,Storage,944.99,1.32,Road,2,1050,98.64,5
+SSD,Storage,1065.06,1.21,Air,4,2977,228.14,6
+Mobile Phone,Electronics,710.62,2.05,Rail,4,4534,73.25,7
+TV,Home Appliances,977.85,53.09,Rail,5,525,874.58,9
+Tablet,Electronics,1388.65,2.98,Road,5,3829,161.92,9
+Mobile Phone,Electronics,1578.49,1.17,Rail,1,2521,135.64,7
+Monitor,Electronics,738.92,0.68,Air,2,2622,161.38,3
+SSD,Storage,1634.8,0.86,Road,1,625,162.1,6
+Speaker,Accessories,1877.82,1.57,Road,4,6807,187.81,9
+Drone,Gadgets,1406.72,1.92,Rail,3,870,131.74,8
+Hard Drive,Storage,2138.4,0.7,Air,5,1377,436.43,9
+Mouse,Accessories,813.11,2.1,Air,4,6204,183.62,5
+Laptop,Electronics,577.67,2.16,Air,2,3962,158.73,3
+Mobile Phone,Electronics,310.64,1.38,Rail,3,4419,35.89,4
+SSD,Storage,1948.02,1.36,Rail,4,1532,162.64,11
+Headphones,Accessories,1527.18,1.05,Road,5,5253,151.65,9
+Camera,Gadgets,1172.21,0.33,Rail,3,2799,97.08,7
+Smart Watch,Gadgets,1339.98,1.63,Road,4,761,148.2,8
+SSD,Storage,637.26,1.03,Rail,3,1723,56.13,5
+Mouse,Accessories,2422.88,1.65,Air,1,6915,501.08,5
+TV,Home Appliances,1264.61,24.62,Air,1,1218,1176.17,3
+SSD,Storage,1254.7,1.38,Road,1,2888,128.73,5
+Camera,Gadgets,1562.88,1.91,Road,5,2448,172.96,9
+SSD,Storage,1440.5,1.3,Rail,5,1241,121.74,10
+Hard Drive,Storage,1311.94,0.81,Road,5,1249,130.81,9
+Hard Drive,Storage,804.76,0.49,Air,3,2222,167.08,4
+SSD,Storage,1435.73,0.54,Air,1,2427,293.9,3
+Laptop,Electronics,2141.01,2.15,Air,1,4288,471.2,5
+TV,Home Appliances,1872.71,23.51,Air,2,481,1256.17,5
+Speaker,Accessories,1996.59,1.35,Road,4,3173,198.15,10
+Hard Drive,Storage,944.39,1.21,Road,2,1783,97.92,5
+Laptop,Electronics,705.2,2.08,Air,2,3860,182.64,3
+Headphones,Accessories,1137.11,2.4,Road,2,5552,120.68,5
+Refrigerator,Home Appliances,1227.86,30.31,Road,1,277,663.45,5
+Camera,Gadgets,1747.1,3.73,Rail,3,2675,177.07,9
+Keyboard,Accessories,353.77,2.09,Road,2,3853,43.99,3
+SSD,Storage,1964.78,0.37,Air,5,1753,397.58,8
+Keyboard,Accessories,1121.0,2.51,Air,3,5734,249.3,5
+Smart Watch,Gadgets,986.56,2.76,Road,2,1903,127.83,5
+Refrigerator,Home Appliances,693.95,47.01,Road,4,239,912.8,6
+Mouse,Accessories,372.57,2.24,Air,1,6830,96.91,2
+Camera,Gadgets,1611.59,0.88,Road,1,2036,165.27,6
+Hard Drive,Storage,1236.66,0.97,Air,1,580,259.46,3
+Laptop,Electronics,555.02,1.96,Air,5,2535,150.2,6
+TV,Home Appliances,552.46,15.96,Road,1,816,340.32,3
+TV,Home Appliances,1032.11,13.25,Road,5,1440,337.58,8
+Headphones,Accessories,2034.51,2.53,Air,5,2964,432.2,8
+Hard Drive,Storage,1070.2,1.22,Road,5,1318,110.06,8
+Hard Drive,Storage,448.43,0.67,Road,2,661,47.07,3
+Drone,Gadgets,1077.13,4.58,Road,4,1854,158.36,7
+Keyboard,Accessories,1063.64,0.24,Air,1,6703,215.13,3
+Microwave,Home Appliances,50.0,57.37,Rail,1,407,864.55,1
+Hard Drive,Storage,1172.85,0.79,Rail,3,2401,97.78,7
+Laptop,Electronics,1084.53,3.35,Rail,3,2975,113.56,7
+SSD,Storage,1548.1,1.16,Air,1,539,324.12,4
+Mouse,Accessories,2124.48,1.12,Rail,5,4197,174.44,13
+Tablet,Electronics,1763.28,3.35,Air,4,3139,419.66,7
+Refrigerator,Home Appliances,1065.56,51.46,Rail,4,1063,857.14,8
+Keyboard,Accessories,646.74,0.57,Road,2,2849,64.82,4
+TV,Home Appliances,2486.68,33.1,Rail,4,571,695.43,13
+Drone,Gadgets,1229.61,3.96,Road,2,2478,165.56,6
+Microwave,Home Appliances,1206.96,54.15,Road,1,735,1090.57,4
+Hard Drive,Storage,1187.94,1.12,Road,5,2814,120.76,8
+Speaker,Accessories,1299.04,1.65,Road,5,2780,132.63,9
+TV,Home Appliances,1127.82,45.79,Road,4,504,932.49,7
+Smart Watch,Gadgets,913.17,0.56,Road,2,2570,94.38,5
+Refrigerator,Home Appliances,926.57,53.21,Road,4,856,1046.73,7
+Speaker,Accessories,1183.62,2.92,Air,2,6509,265.92,4
+Refrigerator,Home Appliances,928.29,50.49,Road,4,1373,997.94,7
+Microwave,Home Appliances,843.58,52.54,Road,1,1218,1026.7,3
+Laptop,Electronics,1253.22,1.91,Air,5,1500,288.84,7
+Tablet,Electronics,1072.51,3.62,Road,4,2896,137.71,7
+Hard Drive,Storage,1952.0,1.26,Rail,3,2794,162.46,10
+Smart Watch,Gadgets,50.0,2.52,Road,4,967,35.04,4
+Mobile Phone,Electronics,1745.75,0.51,Air,3,3743,359.35,6
+Drone,Gadgets,1823.04,3.6,Air,2,2516,454.61,5
+Headphones,Accessories,163.3,0.5,Road,2,2989,18.08,2
+Microwave,Home Appliances,1028.66,31.77,Rail,3,420,558.84,7
+Microwave,Home Appliances,1014.28,56.18,Rail,5,452,923.84,9
+Refrigerator,Home Appliances,496.24,42.24,Sea,2,1221,538.64,5
+Laptop,Electronics,811.09,2.44,Road,5,3478,101.29,7
+Camera,Gadgets,644.71,3.55,Air,2,924,217.69,3
+TV,Home Appliances,2076.14,39.23,Sea,5,987,603.63,17
+TV,Home Appliances,1667.84,55.63,Rail,3,1014,967.88,9
+SSD,Storage,1835.78,0.79,Air,4,2967,377.03,7
+Drone,Gadgets,1560.84,4.26,Road,3,2767,200.96,7
+Mouse,Accessories,635.47,0.79,Road,3,3086,64.8,5
+Speaker,Accessories,937.74,2.19,Road,5,5935,100.54,8
+Smart Watch,Gadgets,1444.69,4.73,Road,5,1671,195.45,9
+Microwave,Home Appliances,588.94,35.18,Road,2,308,689.78,4
+Mobile Phone,Electronics,1556.5,1.43,Road,3,4299,163.15,7
+Hard Drive,Storage,1079.84,1.29,Road,3,1335,111.4,6
+Camera,Gadgets,1012.59,1.99,Road,5,2801,121.09,8
+Headphones,Accessories,1555.48,0.87,Road,3,2384,153.5,7
+Refrigerator,Home Appliances,1422.13,29.66,Rail,3,1330,558.67,8
+Laptop,Electronics,1019.52,3.1,Air,4,4899,265.9,6
+Speaker,Accessories,1779.66,2.31,Road,5,3609,181.94,10
+Speaker,Accessories,659.47,1.46,Rail,1,3531,58.6,3
+Keyboard,Accessories,1507.97,1.26,Road,5,4164,150.81,9
+Mouse,Accessories,1496.55,1.84,Air,3,5820,317.71,6
+Keyboard,Accessories,1045.23,0.63,Air,1,4467,215.35,3
+TV,Home Appliances,1363.07,36.61,Road,3,1276,789.83,7
+Mouse,Accessories,574.44,1.66,Road,2,5407,63.11,4
+Smart Watch,Gadgets,1662.01,2.2,Air,2,1859,387.4,5
+SSD,Storage,1107.55,0.58,Rail,5,2672,91.5,9
+TV,Home Appliances,938.64,50.83,Sea,1,434,670.03,6
+SSD,Storage,1724.5,0.51,Road,5,1498,168.61,10
+Tablet,Electronics,847.83,1.83,Road,1,3080,98.96,3
+SSD,Storage,495.77,0.23,Road,3,2606,48.97,4
+Drone,Gadgets,421.69,2.59,Air,2,1812,149.09,3
+Camera,Gadgets,1503.0,4.76,Air,5,2684,419.6,8
+Laptop,Electronics,559.79,1.24,Road,2,4307,65.64,4
+Microwave,Home Appliances,2077.4,18.69,Rail,4,347,446.54,12
+Keyboard,Accessories,159.04,1.49,Air,1,2600,46.71,1
+Mobile Phone,Electronics,2048.23,3.28,Road,5,4865,228.12,11
+Speaker,Accessories,1305.51,1.34,Road,4,5547,131.76,8
+Hard Drive,Storage,1151.64,0.71,Air,1,759,239.2,3
+Camera,Gadgets,927.54,3.59,Air,5,934,275.26,7
+SSD,Storage,1399.57,0.99,Air,4,2062,292.29,6
+TV,Home Appliances,1181.18,9.6,Air,2,479,596.24,4
+TV,Home Appliances,1751.65,23.34,Road,3,964,588.28,8
+Mobile Phone,Electronics,1257.11,0.93,Air,5,3114,270.02,7
+Smart Watch,Gadgets,1275.15,4.75,Air,3,1367,373.78,5
+TV,Home Appliances,1018.19,52.28,Road,2,652,1038.79,5
+Drone,Gadgets,1171.53,1.21,Air,5,722,264.56,7
+Drone,Gadgets,1353.9,3.33,Air,1,1526,354.03,3
+Mobile Phone,Electronics,344.92,3.04,Road,3,2962,62.3,4
+Mouse,Accessories,525.91,0.48,Road,2,4603,52.79,4
+Refrigerator,Home Appliances,1571.63,25.07,Rail,5,512,501.78,11
+Smart Watch,Gadgets,1285.43,2.01,Air,4,1190,307.34,6
+Tablet,Electronics,1108.01,1.36,Air,4,2633,248.8,6
+Hard Drive,Storage,1209.22,1.08,Air,4,2395,255.34,6
+Refrigerator,Home Appliances,1373.79,48.29,Road,1,559,1001.1,5
+Camera,Gadgets,930.12,4.26,Rail,2,2706,117.01,5
+Speaker,Accessories,810.85,2.25,Road,1,2152,88.64,3
+Smart Watch,Gadgets,1297.92,0.45,Road,4,2916,130.0,8
+Keyboard,Accessories,710.81,1.74,Road,5,5867,76.59,7
+Speaker,Accessories,1404.13,1.3,Rail,5,4383,117.53,10
+Headphones,Accessories,348.71,1.6,Air,3,6113,85.74,4
+Mobile Phone,Electronics,1714.58,3.47,Rail,5,4302,164.93,11
+Mouse,Accessories,1436.3,1.45,Air,5,3197,301.76,7
+Refrigerator,Home Appliances,1328.01,10.1,Road,2,328,309.29,6
+SSD,Storage,1691.35,0.5,Road,5,1979,165.37,10
+Refrigerator,Home Appliances,2032.74,55.73,Sea,1,863,798.86,13
+Tablet,Electronics,1707.19,3.42,Air,5,3835,409.84,8
+Headphones,Accessories,279.56,2.03,Air,1,6232,76.21,1
+SSD,Storage,560.21,1.46,Air,4,1945,130.29,5
+SSD,Storage,887.59,1.23,Rail,1,2555,77.16,4
+Headphones,Accessories,1213.05,0.66,Air,3,3732,249.21,5
+Mouse,Accessories,1458.83,0.64,Road,1,3886,143.12,5
+Refrigerator,Home Appliances,837.13,45.45,Road,4,1181,898.46,6
+Mouse,Accessories,1293.38,2.01,Road,2,2353,133.81,6
+Mouse,Accessories,822.31,0.58,Road,5,3203,81.73,7
+Mobile Phone,Electronics,894.24,1.4,Air,4,3954,206.85,6
+Smart Watch,Gadgets,496.67,0.39,Road,3,851,52.36,4
+Headphones,Accessories,738.38,1.9,Road,4,3397,80.0,6
+Headphones,Accessories,524.16,1.88,Road,2,6184,59.34,3
+Hard Drive,Storage,712.06,1.14,Air,4,2943,156.66,5
+Camera,Gadgets,1726.82,1.38,Air,1,567,379.86,4
+Headphones,Accessories,725.3,2.51,Road,2,5898,81.68,4
+Smart Watch,Gadgets,2516.19,0.48,Road,5,981,247.31,12
+Monitor,Electronics,1446.66,2.81,Rail,5,4889,138.21,10
+Monitor,Electronics,1292.42,2.33,Air,1,4357,305.08,3
+Drone,Gadgets,770.82,1.38,Rail,4,1935,75.47,7
+Smart Watch,Gadgets,1550.15,4.57,Rail,5,900,169.71,11
+Microwave,Home Appliances,912.18,21.23,Road,1,780,469.71,4
+Smart Watch,Gadgets,1261.0,2.22,Air,1,2867,307.7,3
+Camera,Gadgets,2480.04,2.74,Air,2,1793,564.51,6
+Refrigerator,Home Appliances,1151.97,13.54,Road,5,719,354.31,8
+SSD,Storage,1774.64,0.93,Road,4,1334,175.95,9
+TV,Home Appliances,848.41,48.76,Road,3,1345,959.13,5
+Drone,Gadgets,1182.51,1.49,Air,3,2130,273.75,5
+Keyboard,Accessories,2085.4,2.29,Road,2,2821,211.19,8
+Headphones,Accessories,886.52,2.4,Rail,5,2426,80.52,8
+Headphones,Accessories,2106.22,2.9,Air,1,3190,450.24,5
+TV,Home Appliances,1553.88,30.64,Road,2,959,700.69,6
+Laptop,Electronics,918.77,3.04,Rail,4,4014,97.82,7
+Drone,Gadgets,1516.2,3.64,Road,2,2524,189.24,6
+Microwave,Home Appliances,1686.28,18.49,Road,5,785,494.7,10
+Keyboard,Accessories,1510.9,2.4,Road,2,3388,156.57,6
+Tablet,Electronics,414.89,1.34,Air,2,1855,109.78,3
+SSD,Storage,836.43,0.66,Air,5,1320,175.54,6
+Camera,Gadgets,1076.24,3.76,Air,1,2751,309.25,3
+SSD,Storage,1162.78,0.65,Rail,2,2983,96.27,6
+Headphones,Accessories,1510.34,2.8,Road,3,3433,158.43,7
+TV,Home Appliances,1288.85,13.54,Air,3,896,765.52,5
+Tablet,Electronics,532.33,3.57,Rail,5,2524,71.15,7
+Refrigerator,Home Appliances,1390.1,37.28,Rail,3,1139,670.41,8
+TV,Home Appliances,1505.29,52.83,Road,3,338,1095.45,7
+TV,Home Appliances,1479.9,49.01,Road,2,846,1024.25,6
+Refrigerator,Home Appliances,1740.39,34.86,Road,3,708,794.56,8
+Hard Drive,Storage,1616.96,0.72,Road,3,811,159.55,8
+Camera,Gadgets,1429.59,2.54,Air,5,1602,349.42,7
+Mouse,Accessories,1164.92,1.6,Air,2,4174,248.98,4
+Mouse,Accessories,369.52,0.77,Air,5,4916,81.6,6
+Keyboard,Accessories,1414.81,0.54,Air,4,2054,288.36,6
+Camera,Gadgets,1303.84,4.29,Air,3,2516,368.02,5
+Drone,Gadgets,1335.79,2.61,Rail,5,1647,132.96,10
+Microwave,Home Appliances,561.63,47.01,Road,5,1066,900.1,7
+TV,Home Appliances,659.47,9.69,Air,2,1136,495.27,3
+Monitor,Electronics,1726.58,1.6,Air,2,3054,377.32,5
+Camera,Gadgets,1180.22,1.83,Road,3,1266,135.26,6
+Drone,Gadgets,1540.75,1.41,Road,5,1905,164.83,9
+Hard Drive,Storage,1214.16,0.85,Air,3,1995,253.46,5
+Refrigerator,Home Appliances,1214.88,31.44,Rail,5,668,568.79,10
+Tablet,Electronics,1669.14,3.31,Road,4,2303,192.01,9
+Mouse,Accessories,941.98,1.52,Air,4,6092,203.6,6
+Speaker,Accessories,1248.06,2.4,Air,5,6651,273.61,7
+Monitor,Electronics,968.86,0.85,Air,2,4833,210.77,4
+SSD,Storage,982.75,1.29,Air,3,1564,212.68,5
+SSD,Storage,1045.41,0.93,Rail,3,1909,88.28,7
+Monitor,Electronics,1311.07,0.92,Rail,5,2314,112.25,10
+Smart Watch,Gadgets,960.63,3.35,Road,3,1954,132.42,6
+SSD,Storage,1827.88,1.21,Road,1,2060,182.74,6
+Drone,Gadgets,752.7,2.48,Rail,2,1881,85.02,5
+TV,Home Appliances,1106.56,39.84,Road,1,362,823.35,4
+Speaker,Accessories,980.13,0.84,Air,3,4191,204.43,5
+Smart Watch,Gadgets,1923.49,2.16,Rail,3,2904,175.48,10
+Drone,Gadgets,1298.28,2.25,Air,1,1012,315.91,3
+Speaker,Accessories,1715.92,2.83,Road,1,3725,178.31,6
+Headphones,Accessories,457.22,0.49,Air,4,6492,96.34,5
+Laptop,Electronics,1333.53,3.2,Road,1,1925,158.74,5
+Hard Drive,Storage,1644.82,0.31,Rail,4,1767,133.14,10
+Mouse,Accessories,1241.14,2.27,Road,2,3075,130.05,6
+Camera,Gadgets,1732.74,0.43,Road,3,2450,171.5,8
+TV,Home Appliances,941.36,56.61,Rail,2,1304,924.46,5
+Headphones,Accessories,1904.67,1.97,Road,5,5563,192.3,10
+Smart Watch,Gadgets,2349.45,3.31,Air,3,2472,552.64,7
+Camera,Gadgets,1018.58,4.08,Road,3,2188,146.74,6
+Hard Drive,Storage,977.25,0.59,Air,2,1908,202.83,4
+SSD,Storage,1926.69,0.9,Road,4,2454,190.36,10
+Hard Drive,Storage,1989.79,1.2,Road,5,1447,198.22,11
+Tablet,Electronics,938.57,1.16,Rail,4,3116,84.37,7
+Mouse,Accessories,989.91,2.2,Road,4,3807,105.59,7
+Hard Drive,Storage,1059.11,0.75,Air,5,1613,221.2,7
+SSD,Storage,527.77,0.74,Rail,2,1059,45.92,4
+Hard Drive,Storage,740.67,1.03,Road,3,2515,77.28,5
+Speaker,Accessories,697.93,0.25,Air,5,2181,142.09,6
+Keyboard,Accessories,816.1,0.99,Air,4,2067,173.12,5
+Keyboard,Accessories,1182.66,0.62,Road,3,5442,116.51,6
+SSD,Storage,1317.11,1.5,Road,1,1852,135.44,5
+Mobile Phone,Electronics,1975.25,0.7,Road,1,3724,196.34,7
+Microwave,Home Appliances,700.82,17.99,Rail,4,225,325.92,7
+Mobile Phone,Electronics,1692.16,1.85,Rail,2,4521,150.17,8
+Mobile Phone,Electronics,1093.01,2.11,Road,5,4227,125.18,8
+Headphones,Accessories,1175.27,1.29,Rail,3,3299,99.18,7
+Laptop,Electronics,1537.41,1.39,Road,2,2976,160.94,6
+Mobile Phone,Electronics,638.64,3.91,Air,4,2829,205.93,5
+Mobile Phone,Electronics,1391.2,3.28,Road,4,4732,165.04,8
+Keyboard,Accessories,1283.23,2.91,Road,4,6884,137.16,8
+Speaker,Accessories,1446.23,2.36,Air,4,2748,312.85,6
+Drone,Gadgets,1344.58,4.67,Rail,1,744,154.27,6
+Hard Drive,Storage,2427.65,1.11,Road,2,2498,239.71,9
+Speaker,Accessories,881.13,2.95,Road,3,5593,98.75,6
+Keyboard,Accessories,934.5,2.13,Air,2,4053,208.2,4
+Monitor,Electronics,888.43,2.97,Road,5,4355,113.8,8
+Microwave,Home Appliances,922.26,37.47,Rail,3,1159,635.83,6
+Hard Drive,Storage,881.31,0.29,Air,3,1578,179.89,5
+Drone,Gadgets,1794.51,2.43,Road,5,2052,201.43,10
+Keyboard,Accessories,1910.25,1.94,Air,5,3956,401.45,8
+Hard Drive,Storage,914.63,1.06,Road,4,1277,94.16,7
+Smart Watch,Gadgets,783.82,2.64,Road,5,1659,106.93,7
+SSD,Storage,1435.71,1.03,Air,5,773,300.02,7
+Mobile Phone,Electronics,923.89,1.13,Air,1,3488,207.38,3
+Keyboard,Accessories,1516.47,0.29,Road,4,6013,146.97,8
+Smart Watch,Gadgets,1301.46,3.6,Air,3,1404,350.29,5
+Smart Watch,Gadgets,442.13,0.63,Rail,2,2512,41.67,4
+Monitor,Electronics,1973.75,3.3,Air,5,4545,460.75,8
+Refrigerator,Home Appliances,2097.94,49.3,Road,5,744,1088.8,11
+Camera,Gadgets,893.61,3.75,Rail,1,1384,108.99,4
+Camera,Gadgets,1006.15,0.78,Air,4,1276,220.73,6
+Mouse,Accessories,1342.93,1.8,Rail,5,6572,114.63,10
+TV,Home Appliances,1367.23,13.49,Road,3,1139,374.07,7
+Microwave,Home Appliances,1529.27,16.67,Air,4,1233,930.98,7
+Hard Drive,Storage,2205.1,0.89,Road,3,1790,217.03,9
+Drone,Gadgets,1111.53,4.27,Road,4,1824,157.95,7
+Camera,Gadgets,800.85,2.95,Air,5,1540,233.92,6
+SSD,Storage,510.34,0.78,Air,1,1665,111.82,2
+Camera,Gadgets,834.53,2.73,Rail,3,526,94.06,6
+Hard Drive,Storage,1183.44,0.48,Air,3,2767,242.69,5
+Smart Watch,Gadgets,2097.28,2.98,Road,1,654,237.1,7
+Refrigerator,Home Appliances,941.19,16.12,Air,5,711,792.74,7
+Speaker,Accessories,1311.89,2.47,Air,4,6661,287.08,6
+Keyboard,Accessories,1191.79,2.23,Road,2,5999,125.12,5
+Camera,Gadgets,1794.2,3.1,Air,5,2062,436.34,8
+Laptop,Electronics,2463.47,3.73,Air,4,3206,567.29,8
+Mobile Phone,Electronics,934.57,3.12,Rail,1,4096,99.73,4
+Microwave,Home Appliances,955.28,23.85,Air,5,1356,1085.43,7
+Speaker,Accessories,1722.08,1.61,Air,1,5218,360.52,4
+TV,Home Appliances,1540.95,37.91,Road,4,793,830.31,8
+Microwave,Home Appliances,2123.35,14.87,Air,5,300,982.3,9
+Drone,Gadgets,1491.96,1.53,Air,4,1034,336.64,7
+Headphones,Accessories,1020.35,1.77,Road,5,3606,106.45,8
+Smart Watch,Gadgets,1495.33,4.99,Road,2,793,203.43,6
+SSD,Storage,1754.35,0.62,Rail,1,960,143.45,8
+Refrigerator,Home Appliances,1610.24,26.99,Road,3,1416,640.4,8
+Tablet,Electronics,1453.64,1.09,Air,4,4052,312.53,6
+Headphones,Accessories,1733.34,0.33,Rail,2,5062,139.99,8
+Keyboard,Accessories,1784.65,0.51,Air,5,3209,362.03,8
+Hard Drive,Storage,1891.08,0.65,Rail,3,2343,154.54,10
+Microwave,Home Appliances,1524.35,25.26,Rail,2,617,500.85,8
+Smart Watch,Gadgets,1116.44,3.83,Road,5,1078,153.14,8
+Monitor,Electronics,1273.36,2.54,Road,1,2546,146.63,5
+Keyboard,Accessories,1803.25,1.0,Road,5,4222,177.91,10
+Monitor,Electronics,791.53,2.79,Air,4,4204,214.11,5
+SSD,Storage,1384.34,1.32,Air,4,1446,293.37,6
+TV,Home Appliances,1003.33,58.78,Road,3,1192,1154.36,6
+Smart Watch,Gadgets,1214.37,0.71,Air,4,2796,260.62,6
+Laptop,Electronics,1839.23,1.37,Road,3,3506,189.72,8
+TV,Home Appliances,1295.55,16.16,Air,3,927,865.11,5
+Hard Drive,Storage,1223.22,1.49,Rail,3,753,105.31,8
+SSD,Storage,520.07,1.36,Rail,1,2773,48.41,3
+Hard Drive,Storage,1573.13,0.4,Rail,2,859,127.85,8
+TV,Home Appliances,1522.74,57.95,Rail,2,1054,991.07,8
+Mouse,Accessories,2281.63,1.39,Air,5,4697,470.23,9
+TV,Home Appliances,1046.11,14.85,Road,5,1308,367.73,8
+Mouse,Accessories,1309.58,1.07,Road,5,3107,130.86,9
+Microwave,Home Appliances,1324.69,42.12,Rail,2,850,737.78,7
+Laptop,Electronics,1988.73,1.14,Rail,2,4478,168.22,9
+Tablet,Electronics,1152.35,3.58,Road,4,2742,144.99,7
+TV,Home Appliances,1339.51,56.56,Sea,3,511,764.45,11
+Keyboard,Accessories,1503.95,0.57,Air,5,4186,306.49,8
+Smart Watch,Gadgets,1293.3,3.18,Road,2,606,162.32,6
+Hard Drive,Storage,976.78,1.09,Road,5,2976,100.31,8
+TV,Home Appliances,1297.04,41.78,Road,4,1206,876.56,8
+Microwave,Home Appliances,1736.82,16.52,Air,4,230,966.86,7
+SSD,Storage,686.74,0.49,Road,2,1337,68.87,4
+Mobile Phone,Electronics,1266.48,3.74,Rail,5,3506,131.24,10
+SSD,Storage,849.94,1.35,Road,1,2990,89.69,3
+TV,Home Appliances,1797.52,24.27,Road,5,1416,609.42,10
+Smart Watch,Gadgets,438.41,3.31,Road,1,2632,81.81,2
+Monitor,Electronics,920.54,2.1,Rail,2,3624,90.44,5
+Drone,Gadgets,1388.61,4.92,Air,4,2614,400.72,6
+Mobile Phone,Electronics,1982.76,1.52,Air,3,4668,426.95,6
+SSD,Storage,1167.12,0.42,Air,1,2617,238.67,3
+Headphones,Accessories,922.4,2.52,Road,5,2927,100.65,8
+Mouse,Accessories,2140.58,1.3,Air,1,3465,441.12,5
+TV,Home Appliances,475.99,54.62,Sea,4,384,685.9,7
+SSD,Storage,100.6,1.1,Rail,2,1006,13.55,2
+Laptop,Electronics,1420.01,2.97,Road,1,3645,164.83,5
+TV,Home Appliances,948.97,49.14,Rail,2,975,813.02,6
+Drone,Gadgets,689.38,0.51,Air,3,2816,150.63,4
+Mouse,Accessories,1554.18,2.63,Air,1,5437,337.14,4
+SSD,Storage,1321.9,1.15,Rail,3,1240,111.5,8
+Mobile Phone,Electronics,917.96,3.86,Air,3,1550,260.79,5
+Refrigerator,Home Appliances,559.85,52.48,Rail,1,1445,831.99,3
+Microwave,Home Appliances,1636.23,19.28,Road,4,1039,504.12,9
+Microwave,Home Appliances,1525.1,39.26,Road,5,769,853.09,9
+Smart Watch,Gadgets,1150.41,2.92,Rail,1,1257,121.23,5
+Keyboard,Accessories,2123.32,2.03,Air,1,6735,444.96,5
+Drone,Gadgets,664.96,1.86,Air,1,2207,179.49,2
+Mouse,Accessories,437.24,2.08,Road,5,6688,51.96,6
+Camera,Gadgets,854.05,4.84,Road,3,646,140.07,5
+Tablet,Electronics,1177.21,1.63,Rail,1,4606,107.22,5
+TV,Home Appliances,1321.67,11.38,Road,1,762,331.72,5
+SSD,Storage,1079.38,0.88,Road,5,738,108.9,8
+Laptop,Electronics,1376.03,2.19,Road,3,3249,153.12,7
+Drone,Gadgets,574.23,1.52,Road,5,1949,73.37,7
+Headphones,Accessories,1921.88,1.66,Road,4,3473,192.47,9
+Camera,Gadgets,1158.92,3.63,Rail,1,984,129.01,5
+Monitor,Electronics,1758.65,2.69,Air,2,4775,405.53,5
+Drone,Gadgets,1371.36,2.25,Air,5,1369,330.52,7
+Mobile Phone,Electronics,1428.38,2.92,Air,1,2760,344.08,3
+SSD,Storage,1484.88,1.2,Air,3,1898,311.98,6
+TV,Home Appliances,1423.85,37.58,Sea,2,597,542.09,10
+SSD,Storage,1521.36,1.4,Road,4,645,154.45,8
+Headphones,Accessories,1864.58,0.64,Road,5,4745,182.07,10
+Refrigerator,Home Appliances,1298.26,56.25,Road,5,813,1137.13,9
+Smart Watch,Gadgets,1554.5,3.49,Road,1,1353,191.11,5
+Smart Watch,Gadgets,1155.13,1.86,Rail,3,771,111.01,7
+Speaker,Accessories,1920.06,2.55,Air,4,6376,409.51,7
+Headphones,Accessories,861.8,0.72,Air,3,4576,179.56,4
+Tablet,Electronics,2100.47,1.95,Road,2,3022,220.37,8
+Refrigerator,Home Appliances,1179.92,19.24,Air,1,966,957.48,3
+Mobile Phone,Electronics,484.61,3.7,Road,1,4772,82.04,2
+TV,Home Appliances,1264.05,16.01,Air,4,1272,853.18,6
+SSD,Storage,859.47,0.39,Rail,5,1043,70.71,8
+Keyboard,Accessories,1620.32,1.49,Road,5,2948,162.7,10
+Tablet,Electronics,873.69,3.76,Road,5,1856,119.97,7
+SSD,Storage,976.91,1.36,Air,3,592,212.38,5
+Drone,Gadgets,255.23,3.3,Air,2,1288,133.55,2
+SSD,Storage,973.85,0.89,Road,1,1616,98.83,4
+Mouse,Accessories,50.0,0.97,Air,5,6584,19.7,5
+Camera,Gadgets,408.05,1.27,Air,3,1610,113.36,4
+Speaker,Accessories,1580.21,1.81,Air,3,4774,334.14,6
+Drone,Gadgets,1592.9,0.54,Air,1,933,332.08,4
+Microwave,Home Appliances,1412.73,12.48,Air,5,1413,750.55,7
+TV,Home Appliances,716.51,26.49,Road,2,1292,545.6,4
+Monitor,Electronics,1176.14,2.49,Air,4,1898,285.03,6
+Refrigerator,Home Appliances,1198.2,43.59,Rail,4,1163,749.71,8
+Mouse,Accessories,620.82,0.6,Rail,3,4977,52.07,5
+Microwave,Home Appliances,1951.7,44.38,Rail,3,1128,821.84,10
+Microwave,Home Appliances,1638.68,11.4,Air,4,1144,755.24,7
+Speaker,Accessories,1089.52,2.35,Road,2,6161,115.87,5
+Monitor,Electronics,1213.44,3.36,Road,3,3777,148.75,6
+Tablet,Electronics,1304.19,2.36,Road,4,2477,147.86,8
+Camera,Gadgets,179.13,2.88,Rail,4,770,43.13,5
+Hard Drive,Storage,1076.41,1.26,Road,4,2823,110.9,7
+Hard Drive,Storage,859.01,0.43,Road,5,2493,85.04,7
+Monitor,Electronics,699.19,1.64,Air,4,2221,172.64,5
+SSD,Storage,1059.45,0.29,Air,5,2052,215.52,7
+SSD,Storage,2098.84,1.04,Air,2,1069,432.77,6
+Smart Watch,Gadgets,1520.42,4.11,Road,2,2355,195.28,6
+Drone,Gadgets,914.41,2.13,Road,2,1342,113.34,5
+SSD,Storage,1486.29,0.94,Rail,3,2280,123.6,9
