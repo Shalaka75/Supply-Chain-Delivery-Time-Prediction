@@ -1,5 +1,5 @@
 
-🚚 #Supply Chain Analysis using Linear Regression 📊
+🚚 # Supply Chain Analysis using Linear Regression 📊
 
 📌 Project Overview
 
